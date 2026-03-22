@@ -1,0 +1,5 @@
+{
+  "name": "Rocky's Eridian Observation Chamber",
+  "description": "Communicate with Rocky, the five-armed Eridian engineer from Andy Weir's Project Hail Mary. Use musical chords and IridiEnglish to science things together!",
+  "requestFramePermissions": ["microphone"]
+}
